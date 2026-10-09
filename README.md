@@ -67,9 +67,9 @@ Remote command execution with root privileges.
 Implementing these recommendations will eliminate the known vsftpd backdoor, reduce unnecessary network exposure, and help prevent unauthorized remote command execution with root privileges.
 
 ### Tools
-Nmap
-Netcat
-SearchSploit
-Metasploit
-Kali Linux
-VMware Workstation
+- Nmap
+- Netcat
+- SearchSploit
+- Metasploit
+- Kali Linux
+- VMware Workstation
